@@ -6,6 +6,7 @@ Guide:
 _______________________________________________________
 
 # Sentiment Analysis of Donald Trump’s Tweets During Key Political Events: Comparing RoBERTa and LSTM Models
+Authors: Cecily Wang-Munoz and Cole Whittington
 
 ## Introduction
 
